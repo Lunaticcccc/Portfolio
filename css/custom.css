@@ -238,3 +238,7 @@ div.carousel-inner{
 	margin: 10px 0 10px 0;
 	font-size: 16pt;
 }
+.gallery {
+	margin: 0 0 0 200px;
+	align-content: center;
+}
